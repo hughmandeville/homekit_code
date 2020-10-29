@@ -1,7 +1,7 @@
 # HomeKit Setup Code Helper
 
 Use [this page](https://hughmandeville.github.io/homekit_code/) to create a HomeKit Setup Code you can scan.
-Just enter in your HomeKit Setup Code (with hyphens) and the font and box used are in a format that scanners can read.
+Just enter in your HomeKit Setup Code (with hyphens). The font and box displayed are in a format that scanners can read.
 
 https://hughmandeville.github.io/homekit_code/
 
