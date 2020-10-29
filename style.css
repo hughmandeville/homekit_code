@@ -18,6 +18,7 @@ html, body {
     margin: 200px auto;
     text-align: center;
     padding: 40px;
+    max-width: 80%;
 }
 
 #img_home {
