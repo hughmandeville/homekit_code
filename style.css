@@ -3,10 +3,12 @@
     src: url(fonts/Scancardium_2.0.ttf) format("truetype");
   }
 
+html {
+    background: #FFAB40;
+}
 html, body {
     margin: 0;
     padding: 0;
-    background: #FFAB40;
     color: #000000;
     font-weight: 500;
     font-family: 'Scancardium', 'Inconsolata', monospace;
