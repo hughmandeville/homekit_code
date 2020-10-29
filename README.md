@@ -1,6 +1,8 @@
 # HomeKit Setup Code
 
-Use this page to create a HomeKit Setup Code you can scan.
+Use [this page](https://github.com/hughmandeville/homekit_code) to create a HomeKit Setup Code you can scan.
+
+https://github.com/hughmandeville/homekit_code
 
 ![Page Screenshot](/images/page_screenshot.png)
 
